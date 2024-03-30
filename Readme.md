@@ -3,6 +3,7 @@
 This project utilizes Puppeteer to automate typing tests on Typing.com.
 
 ## DEMO
+![typing-automator](https://github.com/mashhoorahdal/typing-automator/assets/101206478/60a17fc9-4f67-4ce1-97e5-02c5d98deee8)
 
 ## Prerequisites
 
