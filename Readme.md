@@ -16,14 +16,14 @@ Before running the script, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/typing-com-automator.git
+   git clone https://github.com/yourusername/typing-automator.git
 
    ```
 
 2. Navigate to directory:
 
    ```bash
-   cd typing-com-automator
+   cd typing-automator
    ```
 
 3. Install dependencies:
