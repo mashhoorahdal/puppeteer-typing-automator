@@ -37,3 +37,8 @@ Before running the script, make sure you have the following installed:
    ```bash
    node typer.js
    ```
+
+# Note
+
+Type enter when it opens the browser
+While running the script it may take some time to search the queries and fetch the data.
