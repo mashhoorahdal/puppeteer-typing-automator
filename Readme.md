@@ -16,7 +16,7 @@ Before running the script, make sure you have the following installed:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/typing-automator.git
+   git clone https://github.com/mashhoorahdal/typing-automator.git
 
    ```
 
